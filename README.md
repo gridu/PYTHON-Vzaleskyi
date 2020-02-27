@@ -12,11 +12,11 @@ _ _ _
 ## Visuals
 Here is output for unit tests:
 
-![run with correct csv](/uploads/6cdfe9c3196d41555089136575ae3ddd/Screen_Shot_2020-02-26_at_3.51.48_PM.png)
+![run with correct csv](images/ok.png)
 
-![misput articles with authors csv](/uploads/07d10c49c1a570dcfa18faf2e325dfcf/Screen_Shot_2020-02-26_at_3.55.04_PM.png)
+![misput articles with authors csv](images/keyerror.png)
 
-![run with none existing file](/uploads/1264dac50adaaaf128b3b6914c4e3f5d/Screen_Shot_2020-02-26_at_4.04.24_PM.png)
+![run with none existing file](images/notexist.png)
 
 _ _ _
 
