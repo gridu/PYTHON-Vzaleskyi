@@ -18,7 +18,6 @@ htmlcov/
 
 articles.csv
 authors.csv
-test_articles.csv
-test_authors.csv
+
 
 .vscode
